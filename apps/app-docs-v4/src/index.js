@@ -1,0 +1,1 @@
+console.log("ggg:", "hello! this is index.js for webpack version 4!");
